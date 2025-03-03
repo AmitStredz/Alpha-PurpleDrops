@@ -8,10 +8,10 @@ const ConnectBinance = () => {
       <Navbar />
 
       <section className="my-5 text-white mx-5 lg:mx-32 text-left">
-        <h1 className="text-3xl">Connection Exchange Alpha Trading Bot</h1>
+        <h1 className="text-3xl">Connection Exchange PurpleDrops Trading Bot</h1>
         <h1 className="mt-3 mb-4">
           Kindly watch the video tutorial on how to connect your
-          <span className="font-bold"> Binance </span>account to the Alpha
+          <span className="font-bold"> Binance </span>account to the PurpleDrops
           traing bot
         </h1>
 

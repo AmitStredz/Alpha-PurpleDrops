@@ -98,7 +98,7 @@ export default function SignupPage() {
           <div className="text-2xl sm:text-4xl md:text-5xl">
             Get started <br /> with{" "}
             <span className="text-green-500 font-semibold font-poppins">
-              Alpha Robotics LLP
+            PurpleDrops Robotics LLP
             </span>
           </div>
         </div>
@@ -237,7 +237,7 @@ export default function SignupPage() {
         className="absolute top-5 sm:top-10 left-5 sm:left-10 w-14 sm:w-20"
       ></img>
       <div className=" flex flex-col sm:flex-row items-center gap-3  justify-between p-3 sm:px-32 sm:gap-[20rem]">
-        <div className="text-[12px] max-sm:order-last sm:text-[16px]">© 2025 alpha All Rights Reserved.</div>
+        <div className="text-[12px] max-sm:order-last sm:text-[16px]">© 2025 PurpleDrops All Rights Reserved.</div>
         <div className="flex gap-4  text-black">
           <button className="bg-white rounded-full p-2">
             <FaInstagram />

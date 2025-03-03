@@ -82,7 +82,7 @@ export default function Footer() {
       <div className="bg-slate-300 w-screen h-[1px]"></div>
 
       <div className="p-5 sm:px-10 flex flex-col sm:flex-row gap-3 text-center justify-between text-white text-[12px] sm:text-[14px]">
-        <p>© alpha robotics llp. All Rights Reserved 2025</p>
+        <p>© PurpleDrops robotics llp. All Rights Reserved 2025</p>
         <p>Designed by our company</p>
       </div>
     </div>

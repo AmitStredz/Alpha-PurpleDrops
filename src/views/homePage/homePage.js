@@ -84,11 +84,11 @@ export default function HomePage() {
       <div className="flex flex-col gap-5 p-3 sm:p-10 items-center w-full">
         <div className="flex flex-col gap-3 h-full ">
           <span className="text-[20px] sm:text-[40px]">
-            Connection Exchange Alpha Trading Bot
+            Connection Exchange PurpleDrops Trading Bot
           </span>
           <span className="text-[12px] sm:text-[16px] sm:w-[30rem] font-extralight">
             Kindly watch the video tutorial on how to connect your Binance
-            account to the Alpha trading bot
+            account to the PurpleDrops trading bot
           </span>
           {/* <img src={img1} alt="img1" className="rounded-[3rem]"></img> */}
         </div>
@@ -208,7 +208,7 @@ export default function HomePage() {
         <ConfirmModal
           isClose={false}
           title="Connect Confirmation"
-          message1="Your binance account is sucessfully connected to Alpha DCA BOT"
+          message1="Your binance account is sucessfully connected to PurpleDrops DCA BOT"
         />
       )}
       {isFailureModal && (

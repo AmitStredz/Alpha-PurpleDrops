@@ -34,7 +34,7 @@ const DashboardHeader = ({ sideBarIsOpen }) => {
             >
               {"☰"}
             </span>
-            <h1 className="inline text-green-500">alpha robotics</h1>
+            <h1 className="inline text-green-500">PurpleDrops robotics</h1>
           </div>
           <div className="hidden md:inline-block text-black">
             <div className="flex justify-between gap-5 items-center font-semibold">
