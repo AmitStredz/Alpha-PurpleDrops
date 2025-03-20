@@ -38,14 +38,14 @@ export default function Footer() {
           <div className="relative w-full">
             <input
               placeholder="EMAIL"
-              className="p-2 px-4 w-full bg-white rounded-xl outline-none"
+              className="p-2 px-4 w-full bg-white text-black rounded-xl outline-none"
             />
             <div className="absolute flex items-end right-3 text-slate-400 top-2 cursor-pointer">
               <span>Sign Up</span>
               <IoIosArrowRoundForward size={24} />
             </div>
           </div>
-          <div className="flex gap-6 text-black">
+          {/* <div className="flex gap-6 text-black">
             <div className="text-green-500 rounded-full cursor-pointer">
               <FaInstagram size={30} />
             </div>
@@ -74,7 +74,7 @@ export default function Footer() {
             >
               <FaTelegramPlane size={30} />
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="flex flex-wrap justify-between gap-5 sm:p-5 text-white font-extralight w-full">
           <ul className="flex flex-col gap-1 sm:gap-3 text-[12px] sm:text-[16px]">

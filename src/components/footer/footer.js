@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="flex flex-col justify-between gap-5">
           <div className="flex justify-between items-center">
             <img src="/logo.png" alt="logo" className="w-16 sm:w-28"></img>
-            <div className="flex gap-4 text-black h-full">
+            {/* <div className="flex gap-4 text-black h-full">
               <div className="text-green-500 rounded-full cursor-pointer">
                 <FaInstagram size={30} />
               </div>
@@ -44,7 +44,7 @@ export default function Footer() {
               >
                 <FaTelegramPlane size={30} />
               </div>
-            </div>
+            </div> */}
           </div>
           <div>
             <p className="text-green-500 text-[12px] w-60">
@@ -54,7 +54,7 @@ export default function Footer() {
           <div className="relative">
             <input
               placeholder="EMAIL"
-              className="p-2 px-4 w-full bg-white rounded-xl outline-none"
+              className="p-2 px-4 w-full bg-white text-black rounded-xl outline-none"
             />
             <div className="absolute flex items-end right-3 text-slate-400 top-2 cursor-pointer">
               <span>Sign Up</span>

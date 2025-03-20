@@ -8,7 +8,7 @@ export default function Header() {
       <img
         alt="logo"
         src="/logo.png"
-        className="w-14 sm:w-20 cursor-pointer"
+        className="w-12 sm:w-16 cursor-pointer"
         onClick={() => navigate("/")}
       ></img>
       <div className="flex gap-5 text-[14px]">
