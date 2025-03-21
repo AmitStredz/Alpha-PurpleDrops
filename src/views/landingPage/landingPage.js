@@ -15,9 +15,9 @@ export default function LandingPage() {
         <Page1 />
       </div>
 
-      <Page2/>
+      {/* <Page2/>
       <Page3/>
-      <Page4/>
+      <Page4/> */}
       <Page5/>
       <Footer />
     </div>
